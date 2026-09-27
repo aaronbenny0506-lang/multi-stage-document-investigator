@@ -14,7 +14,7 @@ document.
 | `runs/temp_0.0/` | Extraction, contradiction, and final-report JSON at the most deterministic setting. |
 | `runs/temp_0.7/` | Same three files at a moderate setting. |
 | `runs/temp_1.0/` | Same three files at the most permissive setting. |
-| `results_comparison.md` | Side-by-side comparison of all three runs — contradictions caught, hallucinations, rule violations, confidence calibration. |
+| `results_comparison.md` | Side-by-side comparison of all three runs, contradictions caught, hallucinations, rule violations, confidence calibration. |
 | `failure_analysis.md` | 4 documented incorrect conclusions, each traced to a specific stage, run, and claim ID, with root cause. |
 | `obstacle_log.md` | What got in the way while building this and how it was handled. |
 
