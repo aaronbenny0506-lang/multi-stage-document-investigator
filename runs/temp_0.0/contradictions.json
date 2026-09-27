@@ -1,0 +1,44 @@
+[
+  {
+    "id": "C1",
+    "claim_ids": ["F1", "F11", "F24", "F12"],
+    "topic": "time of incident",
+    "description": "F1, F11, and F24 all state the incident occurred at approximately 2:15 PM. F12 (Marcus's statement) says it happened closer to 3:00 PM, right after shift change. These cannot both be correct.",
+    "severity": "material"
+  },
+  {
+    "id": "C2",
+    "claim_ids": ["F6", "F10", "F17", "F19"],
+    "topic": "forklift certification status",
+    "description": "F6 states the operator's certification had lapsed and was pending renewal. F10 (Dana's own statement), F17 (cross-referenced records), and F19 (HR file) all state the certification was current and valid through March 2027. Direct conflict on whether the certification was valid at the time of the incident.",
+    "severity": "material"
+  },
+  {
+    "id": "C3",
+    "claim_ids": ["F2", "F24", "F14", "F22"],
+    "topic": "number of witnesses",
+    "description": "F2 and F24 both state two employees witnessed the incident. F22 (Danvers's email) names three people on the floor (Dana, Marcus, Priya). F14 (Marcus's own statement) says he isn't sure how many others were around and estimates 'maybe one other person.' The stated count and the named individuals do not agree with each other.",
+    "severity": "material"
+  },
+  {
+    "id": "C4",
+    "claim_ids": ["F13", "F16", "F20"],
+    "topic": "guard rail condition",
+    "description": "F13 (Marcus) and F20 (Safety Committee minutes) indicate the guard rail had been a known, ongoing problem. F16 (maintenance log) states the rail was re-tightened and confirmed secure at 9:00 AM on the morning of the incident, several hours before the 2:15 PM incident. It is not established from these claims alone whether the rail was actually secure at the time of the incident or whether the 9:00 AM repair fully resolved the issue Marcus and the committee described.",
+    "severity": "material"
+  },
+  {
+    "id": "C5",
+    "claim_ids": ["F7", "F18"],
+    "topic": "job title",
+    "description": "F7 (personnel section) lists Dana Whitfield's title as Warehouse Associate II. F18 (HR Personnel File) lists it as Forklift Operator. These are different titles for the same person in the same set of records.",
+    "severity": "minor"
+  },
+  {
+    "id": "C6",
+    "claim_ids": ["F21", "F15", "F23"],
+    "topic": "emergency alarm activation",
+    "description": "F21 (Danvers's email) states the alarm sounded immediately. F15 (Marcus's statement) and F23 (Okafor's email) both state the alarm did not sound and a person had to be physically retrieved. Direct conflict on whether the alarm functioned.",
+    "severity": "material"
+  }
+]

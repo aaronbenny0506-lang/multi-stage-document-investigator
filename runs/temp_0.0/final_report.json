@@ -1,0 +1,27 @@
+{
+  "established_facts": [
+    {"id": "F3", "claim": "Forklift unit FL-118 was operated by Dana Whitfield."},
+    {"id": "F4", "claim": "The forklift struck the end-cap of shelving unit 4-B while turning to exit the aisle."},
+    {"id": "F5", "claim": "Dana sustained a minor injury to the left hand."},
+    {"id": "F8", "claim": "Marcus Ilunga is a Warehouse Associate on second shift, clocked in at 2:45 PM on September 14."},
+    {"id": "F9", "claim": "Priya Nair is the Inventory Coordinator and shift supervisor for Aisles 3-6, and was on duty at the time of the incident."}
+  ],
+  "unresolved_contradictions": [
+    {"id": "C1", "topic": "time of incident", "note": "The claims do not allow a determination of whether the incident occurred around 2:15 PM or closer to 3:00 PM."},
+    {"id": "C2", "topic": "certification status", "note": "The claims do not allow a determination of whether the operator's certification was lapsed or current at the time of the incident; the sources directly disagree."},
+    {"id": "C3", "topic": "number of witnesses", "note": "The claims do not allow a determination of exactly how many people witnessed the incident or who they were."},
+    {"id": "C4", "topic": "guard rail condition", "note": "The claims do not establish whether the guard rail was actually secure at 2:15 PM; a repair is logged for 9:00 AM the same morning, but whether it fully addressed the ongoing issue described elsewhere is not established here."},
+    {"id": "C5", "topic": "job title", "note": "The claims give two different titles for the same employee; which is accurate is not established."},
+    {"id": "C6", "topic": "alarm activation", "note": "The claims do not allow a determination of whether the emergency alarm sounded."}
+  ],
+  "conclusion": "What can be established from the provided claims: a forklift (unit FL-118), operated by Dana Whitfield, struck the end-cap of shelving unit 4-B while turning to exit Aisle 4, and Dana sustained a minor hand injury. Marcus Ilunga and Priya Nair were both present in some capacity related to the incident. Beyond this, six material points remain contested and cannot be resolved from the claims and contradictions provided alone: the exact time of the incident, whether the operator's certification was valid, how many people actually witnessed the event, whether the guard rail was secure at the time, the operator's correct job title, and whether the emergency alarm functioned as intended. No conclusion about fault, contributing cause, or procedural failure can be responsibly drawn until these are resolved, since several of them (certification status, guard rail condition, alarm function) are exactly the kind of fact that would determine whether this was a preventable equipment/process failure or an isolated operator event.",
+  "confidence": "low",
+  "recommended_next_steps": [
+    "Obtain a timestamped source (time-clock log, CCTV, or radio dispatch log) to resolve the exact time of the incident.",
+    "Contact the certifying body or training provider directly to confirm Dana Whitfield's actual certification status as of September 14, rather than relying on internal records that disagree with each other.",
+    "Re-interview all individuals named as possibly present (Dana, Marcus, Priya, and anyone else on shift near Aisle 4) to establish an agreed witness list.",
+    "Obtain a precise timeline for the guard rail bracket, including exactly when the 9:00 AM repair was completed and whether it addressed the specific looseness Marcus and the Safety Committee described.",
+    "Reconcile the two job titles on file for Dana Whitfield with HR directly.",
+    "Pull the emergency alarm system's activation log for September 14 to determine objectively whether it triggered."
+  ]
+}
