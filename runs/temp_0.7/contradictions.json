@@ -1,0 +1,37 @@
+[
+  {
+    "id": "C1",
+    "claim_ids": ["F1", "F10"],
+    "topic": "time of incident",
+    "description": "F1 states the incident occurred around 2:15 PM (repeated in three sections). F10 (Marcus) says it happened closer to 3:00 PM, right after shift change. These conflict.",
+    "severity": "material"
+  },
+  {
+    "id": "C2",
+    "claim_ids": ["F5", "F9", "F14"],
+    "topic": "certification status",
+    "description": "F5 says the certification had lapsed and was pending renewal. F9 (Dana) and F14 (records + HR file) say it was current through March 2027. Direct conflict.",
+    "severity": "material"
+  },
+  {
+    "id": "C3",
+    "claim_ids": ["F2", "F17"],
+    "topic": "number of witnesses",
+    "description": "F2 states two employees witnessed the incident. F17 (Danvers's email) names three people on the floor near Aisle 4 (Dana, Marcus, Priya). The count and the named list don't match.",
+    "severity": "material"
+  },
+  {
+    "id": "C4",
+    "claim_ids": ["F11", "F13"],
+    "topic": "guard rail condition",
+    "description": "F11 (Marcus) says the rail had been loose for weeks. F13 (maintenance log) says it was inspected and confirmed secure at 9:00 AM the morning of the incident. Not clear from these two claims alone whether the rail was actually secure by 2:15 PM.",
+    "severity": "material"
+  },
+  {
+    "id": "C5",
+    "claim_ids": ["F12", "F16", "F18"],
+    "topic": "alarm activation",
+    "description": "F16 (Danvers) says the alarm sounded immediately. F12 (Marcus) and F18 (Okafor) both say it did not sound. Direct conflict.",
+    "severity": "material"
+  }
+]

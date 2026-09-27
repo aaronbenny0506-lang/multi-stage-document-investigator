@@ -1,0 +1,20 @@
+[
+  {"id": "F1", "section": "Executive Summary / Section 1 / Section 10", "claim": "The incident occurred at approximately 2:15 PM on September 14, 2026, in Aisle 4, and was later restated the same way in two other sections.", "claim_type": "time"},
+  {"id": "F2", "section": "Executive Summary / Section 10", "claim": "Two employees witnessed the incident.", "claim_type": "count"},
+  {"id": "F3", "section": "Section 1", "claim": "Forklift unit FL-118, operated by Dana Whitfield, struck the end-cap of shelving unit 4-B while turning to exit the aisle.", "claim_type": "event"},
+  {"id": "F4", "section": "Section 1", "claim": "Dana sustained a minor injury to the left hand.", "claim_type": "status"},
+  {"id": "F5", "section": "Section 1", "claim": "The operator's forklift certification had lapsed the previous month and was pending renewal.", "claim_type": "status"},
+  {"id": "F6", "section": "Section 2", "claim": "Dana Whitfield's title is listed as Warehouse Associate II, Logistics Department, and she is also referred to elsewhere as a certified forklift operator.", "claim_type": "identity"},
+  {"id": "F7", "section": "Section 2", "claim": "Marcus Ilunga is a Warehouse Associate on second shift, clocked in at 2:45 PM on September 14.", "claim_type": "identity"},
+  {"id": "F8", "section": "Section 2", "claim": "Priya Nair is the Inventory Coordinator and shift supervisor for Aisles 3-6, on duty at the time of the incident.", "claim_type": "identity"},
+  {"id": "F9", "section": "Section 3", "claim": "Dana states she completed recertification training in March and estimates the incident happened around 2:15 PM.", "claim_type": "status"},
+  {"id": "F10", "section": "Section 4", "claim": "Marcus states the incident happened closer to 3:00 PM, right after shift change.", "claim_type": "time"},
+  {"id": "F11", "section": "Section 4", "claim": "Marcus states the Aisle 4 guard rail had been loose for at least two weeks.", "claim_type": "equipment"},
+  {"id": "F12", "section": "Section 4", "claim": "Marcus states the emergency alarm did not sound and someone had to run and get the floor supervisor.", "claim_type": "event"},
+  {"id": "F13", "section": "Section 5", "claim": "Facilities re-tightened and inspected the Aisle 4 guard rail bracket on September 14 at 9:00 AM and confirmed it secure.", "claim_type": "equipment"},
+  {"id": "F14", "section": "Section 5 / Section 6", "claim": "Cross-referenced records and the HR Personnel File both state Dana Whitfield's certification is current, last renewed March 3, 2026, valid through March 3, 2027.", "claim_type": "status"},
+  {"id": "F15", "section": "Section 6", "claim": "The HR Personnel File lists Dana Whitfield's title as Forklift Operator.", "claim_type": "identity"},
+  {"id": "F16", "section": "Section 8", "claim": "R. Danvers states in an email that the emergency alarm sounded immediately and the aisle was cleared within a minute.", "claim_type": "event"},
+  {"id": "F17", "section": "Section 8", "claim": "R. Danvers states three people were on the floor near Aisle 4 at the time: Dana, Marcus, and Priya.", "claim_type": "count"},
+  {"id": "F18", "section": "Section 8", "claim": "J. Okafor states in a reply email that the alarm did NOT sound and someone had to go get Priya in person.", "claim_type": "event"}
+]

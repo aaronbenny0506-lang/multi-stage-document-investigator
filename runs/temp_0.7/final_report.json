@@ -1,0 +1,25 @@
+{
+  "established_facts": [
+    {"id": "F3", "claim": "Forklift unit FL-118, operated by Dana Whitfield, struck the end-cap of shelving unit 4-B while turning to exit the aisle."},
+    {"id": "F4", "claim": "Dana sustained a minor injury to the left hand."},
+    {"id": "F6", "claim": "Dana Whitfield's title is Warehouse Associate II, Logistics Department, and she is also referred to as a certified forklift operator."},
+    {"id": "F7", "claim": "Marcus Ilunga is a Warehouse Associate on second shift, clocked in at 2:45 PM on September 14."},
+    {"id": "F8", "claim": "Priya Nair is the Inventory Coordinator and shift supervisor for Aisles 3-6, on duty at the time of the incident."},
+    {"id": "F15", "claim": "The HR Personnel File lists Dana Whitfield's title as Forklift Operator."}
+  ],
+  "unresolved_contradictions": [
+    {"id": "C1", "topic": "time of incident", "note": "Cannot determine whether the incident occurred around 2:15 PM or closer to 3:00 PM from the claims given."},
+    {"id": "C2", "topic": "certification status", "note": "Cannot determine whether the operator's certification was lapsed or current; sources disagree directly."},
+    {"id": "C3", "topic": "number of witnesses", "note": "Cannot determine the exact number or identity of witnesses."},
+    {"id": "C4", "topic": "guard rail condition", "note": "The rail was reported loose for weeks but was also logged as repaired and confirmed secure at 9:00 AM the same morning, several hours before the incident, which suggests the repair likely addressed the issue Marcus described, though this isn't fully confirmed by the claims alone."},
+    {"id": "C5", "topic": "alarm activation", "note": "Cannot determine whether the emergency alarm sounded; sources disagree directly."}
+  ],
+  "conclusion": "A forklift operated by Dana Whitfield struck shelving in Aisle 4, causing a minor hand injury, with Marcus Ilunga and Priya Nair both present in some capacity. Dana's role appears to be a warehouse associate who also holds forklift certification. Several points remain contested and unresolved: the exact time, whether certification was valid, how many people witnessed the event, and whether the alarm sounded. The guard rail issue is likely less of an open question than the others, since a repair was logged the same morning before the incident occurred, though this should still be confirmed. No determination of fault can be made given the number of open contradictions.",
+  "confidence": "medium",
+  "recommended_next_steps": [
+    "Obtain a timestamped log to resolve the exact time of the incident.",
+    "Confirm certification status directly with the issuing body.",
+    "Re-interview witnesses to establish an agreed list of who was present.",
+    "Pull the alarm system's activation log for September 14."
+  ]
+}
