@@ -1,0 +1,22 @@
+{
+  "established_facts": [
+    {"id": "F2", "claim": "Forklift unit FL-118, operated by Dana Whitfield, struck shelving unit 4-B while turning too quickly to exit the aisle."},
+    {"id": "F3", "claim": "Dana sustained a minor injury to the left hand."},
+    {"id": "F5", "claim": "Dana Whitfield was wearing a helmet and steel-toe boots as required by safety policy at the time of the incident."},
+    {"id": "F6", "claim": "Dana Whitfield is a Warehouse Associate II in the Logistics Department."},
+    {"id": "F7", "claim": "Marcus Ilunga is a second-shift Warehouse Associate."},
+    {"id": "F9", "claim": "The Aisle 4 guard rail had been loose for weeks."},
+    {"id": "F11", "claim": "The guard rail was repaired and confirmed secure at 9:00 AM on the day of the incident."}
+  ],
+  "unresolved_contradictions": [
+    {"id": "C1", "topic": "time of incident", "note": "Cannot determine exact time from the claims given."},
+    {"id": "C3", "topic": "alarm activation", "note": "Cannot determine whether the alarm sounded."}
+  ],
+  "conclusion": "Dana Whitfield was operating forklift FL-118 and was turning too quickly to exit Aisle 4 when the unit struck shelving unit 4-B, causing a minor hand injury. Based on the incident report's direct account, Dana was operating the forklift with a lapsed certification that was pending renewal, which was likely a primary contributing factor in the incident. Dana Whitfield was primarily responsible for the incident due to operating without a valid certification and excessive turning speed. The guard rail had been a known issue for weeks but was repaired that same morning, so it was likely not a significant factor. Proper PPE was worn, so equipment compliance was not an issue. The main open questions are the exact time of the incident and whether the alarm sounded, but these do not change the overall determination of operator error as the primary cause.",
+  "confidence": "high",
+  "recommended_next_steps": [
+    "Review Dana Whitfield's certification renewal process to prevent operators working with lapsed credentials.",
+    "Provide additional forklift handling training focused on turning speed in tight aisles.",
+    "Investigate the alarm system malfunction separately."
+  ]
+}

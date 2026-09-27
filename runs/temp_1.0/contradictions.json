@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C1",
+    "claim_ids": ["F1", "F8"],
+    "topic": "time of incident",
+    "description": "F1 says approximately 2:15 PM. F8 (Marcus) says closer to 3:00 PM. These conflict.",
+    "severity": "material"
+  },
+  {
+    "id": "C2",
+    "claim_ids": ["F4", "F12"],
+    "topic": "certification status",
+    "description": "F4 says certification had lapsed. F12 says records show it was current. These conflict, though F4 comes from the incident report's own direct account of what happened, which is probably the more operative version of events.",
+    "severity": "material"
+  },
+  {
+    "id": "C3",
+    "claim_ids": ["F13", "F14"],
+    "topic": "alarm activation",
+    "description": "F13 (Danvers) says the alarm sounded. F14 (Okafor) says it did not. These conflict.",
+    "severity": "material"
+  }
+]

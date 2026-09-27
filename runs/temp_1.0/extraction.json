@@ -1,0 +1,16 @@
+[
+  {"id": "F1", "section": "Executive Summary", "claim": "The incident occurred at approximately 2:15 PM on September 14, 2026, in Aisle 4.", "claim_type": "time"},
+  {"id": "F2", "section": "Section 1", "claim": "Forklift unit FL-118, operated by Dana Whitfield, struck shelving unit 4-B while turning too quickly to exit the aisle.", "claim_type": "event"},
+  {"id": "F3", "section": "Section 1", "claim": "Dana sustained a minor injury to the left hand.", "claim_type": "status"},
+  {"id": "F4", "section": "Section 1", "claim": "The operator's forklift certification had lapsed the previous month.", "claim_type": "status"},
+  {"id": "F5", "section": "Section 1", "claim": "Dana Whitfield was wearing a helmet and steel-toe boots as required by safety policy at the time of the incident.", "claim_type": "status"},
+  {"id": "F6", "section": "Section 2", "claim": "Dana Whitfield is a Warehouse Associate II in the Logistics Department.", "claim_type": "identity"},
+  {"id": "F7", "section": "Section 2", "claim": "Marcus Ilunga is a second-shift Warehouse Associate.", "claim_type": "identity"},
+  {"id": "F8", "section": "Section 4", "claim": "Marcus states the incident happened closer to 3:00 PM, after shift change.", "claim_type": "time"},
+  {"id": "F9", "section": "Section 4", "claim": "Marcus states the Aisle 4 guard rail had been loose for weeks.", "claim_type": "equipment"},
+  {"id": "F10", "section": "Section 4", "claim": "Marcus states the alarm did not sound.", "claim_type": "event"},
+  {"id": "F11", "section": "Section 5", "claim": "The guard rail was repaired and confirmed secure at 9:00 AM on the day of the incident.", "claim_type": "equipment"},
+  {"id": "F12", "section": "Section 5 / Section 6", "claim": "Records show Dana Whitfield's certification was renewed March 2026 and is current.", "claim_type": "status"},
+  {"id": "F13", "section": "Section 8", "claim": "Danvers states the alarm sounded immediately and the aisle was cleared within a minute.", "claim_type": "event"},
+  {"id": "F14", "section": "Section 8", "claim": "Okafor states the alarm did not sound and someone had to get Priya in person.", "claim_type": "event"}
+]
