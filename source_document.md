@@ -100,7 +100,7 @@ didn't."
   technician J. Okafor.
 
 **Operator Certification Records (cross-reference HR)**
-- Dana Whitfield — Forklift Operator Certification: last renewed March 3,
+- Dana Whitfield - Forklift Operator Certification: last renewed March 3,
   2026. Valid through March 3, 2027. No lapses on file.
 
 ---
@@ -110,7 +110,7 @@ didn't."
 Employee: Dana Whitfield
 Title: Forklift Operator
 Department: Logistics
-Certification Status: Current — Forklift Operator Certification renewed
+Certification Status: Current - Forklift Operator Certification renewed
 March 2026, valid through March 2027.
 Prior incidents on file: None.
 Note: File updated September 2, 2026 to reflect current certification
@@ -155,7 +155,7 @@ nearby as well doing her supervisor rounds."
 **Subject:** RE: RE: Aisle 4 Incident — Preliminary Notes
 **Date:** September 15, 2026
 
-"Quick correction — I was on the floor shortly after and it was reported
+"Quick correction : I was on the floor shortly after and it was reported
 to me directly that the alarm did NOT sound. Someone had to go get Priya
 in person. Might want to check that before it goes in the official
 report. Also just a reminder the parking lot repaving is happening next
@@ -170,7 +170,7 @@ through Lot C."
   week due to vendor scheduling.
 - Lot B parking closed Sept 21–23 for repaving; use Lot C.
 - Reminder: open enrollment for benefits closes October 1.
-- Company picnic — October 3, location and RSVP link to be sent via
+- Company picnic : October 3, location and RSVP link to be sent via
   separate email.
 
 ---
