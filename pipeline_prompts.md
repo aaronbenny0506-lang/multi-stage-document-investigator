@@ -51,7 +51,7 @@ Document:
 
 ---
 
-## Stage 2 — Contradiction Detection
+## Stage 2 - Contradiction Detection
 
 **Input:** ONLY the Stage 1 JSON array (not the raw document).
 **Output:** a list of contradictions found between claims, each citing
@@ -89,7 +89,7 @@ Claims:
 
 ---
 
-## Stage 3 — Final Reasoning
+## Stage 3 - Final Reasoning
 
 **Input:** ONLY the Stage 1 JSON array and the Stage 2 JSON array (not
 the raw document).
