@@ -1,7 +1,7 @@
 # Multi-Stage Document Investigator
 
-A three-stage LLM pipeline — extraction → contradiction detection → final
-reasoning — run against a deliberately messy incident report, with each
+A three-stage LLM pipeline, extraction → contradiction detection → final
+reasoning, run against a deliberately messy incident report, with each
 stage passing structured JSON to the next instead of re-feeding the raw
 document.
 
@@ -33,8 +33,8 @@ The full breakdown and the reasoning behind each number is in
 
 ## The core finding
 
-Every documented failure traces back to Stage 1 (extraction) — a fact was
-either invented, dropped, or merged — even in the one case where Stage 3
+Every documented failure traces back to Stage 1 (extraction), a fact was
+either invented, dropped, or merged, even in the one case where Stage 3
 itself broke its own explicit rules (assigning fault based on a disputed
 fact). That rule-break was triggered by Stage 2 already having
 editorialized rather than describing the conflict neutrally. The
@@ -47,5 +47,5 @@ has a chance to build on a bad claim.
 `pipeline_prompts.md` is written so each stage's prompt can be filled in
 programmatically (`{document}`, `{stage1_output_json}`,
 `{stage2_output_json}`) and looped over real `temperature` values via a
-live API call — see `obstacle_log.md` item 1 for why this run was done
+live API call, see `obstacle_log.md` item 1 for why this run was done
 manually rather than through a live API in this environment.
