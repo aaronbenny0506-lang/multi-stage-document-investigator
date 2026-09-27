@@ -10,7 +10,7 @@
 | Stage 2 editorializing / silent resolution | none | none | 1 (`C2` description leans toward one side instead of describing the conflict neutrally) |
 | Fault/blame assigned to an individual | no | no | **yes** - violates Stage 3's own explicit rule |
 | Stated confidence | low | medium | high |
-| Confidence actually justified by the evidence? | yes (matches 6 open contradictions) | mostly (5 open contradictions, but "medium" undersells that) | **no** — "high" confidence stated despite the run's own output listing 2 unresolved material contradictions and quietly dropping 2 more |
+| Confidence actually justified by the evidence? | yes (matches 6 open contradictions) | mostly (5 open contradictions, but "medium" undersells that) | **no** - "high" confidence stated despite the run's own output listing 2 unresolved material contradictions and quietly dropping 2 more |
 
 ## What temperature changed, concretely
 
@@ -24,7 +24,7 @@
   At temp 0.0 and 0.7, every flagged contradiction was described
   neutrally, exactly as instructed. At temp 1.0, one contradiction
   (`C2`, certification) was described with an editorial lean toward one
-  side — the first sign of the model treating "detect" as license to
+  side, the first sign of the model treating "detect" as license to
   "resolve."
 - **Final-stage rule violations only appeared at temp 1.0, and only after
   Stage 2 had already leaned.** The temp 0.7 final stage bent a rule
